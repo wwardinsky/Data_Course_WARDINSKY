@@ -1,1 +1,2 @@
-# Data_Course_WARDINSKYThis README file contains information about my uploaded assignments
+# Data_Course_WARDINSKY
+This README file contains information about my uploaded assignments, and no hate mail :)
