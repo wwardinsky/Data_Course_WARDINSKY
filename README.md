@@ -7,4 +7,5 @@ I'm Will:
 -Originally from Houston, Texas  
 -2nd year Ski instructor  
 -Currently Watching: Percy Jackson  
--Favorite food (lately): Tortas from Holy Taco in Orem
+-Favorite food (lately): Tortas from Holy Taco in Orem  
+-Favorite artist: Beyoncé  
