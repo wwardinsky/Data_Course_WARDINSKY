@@ -9,3 +9,4 @@ I'm Will:
 -Currently Watching: Percy Jackson  
 -Favorite food (lately): Tortas from Holy Taco in Orem  
 -Favorite artist: Beyoncé  
+-Bioinformatics major
