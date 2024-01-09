@@ -11,4 +11,5 @@ I'm Will:
 -Favorite artist: Beyoncé  
 -Bioinformatics major  
 
-I've done some work in R before so I'm hoping this class goes well!
+I've done some work in R before so I'm hoping this class goes well!  
+Last edit... for now
