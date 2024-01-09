@@ -9,4 +9,6 @@ I'm Will:
 -Currently Watching: Percy Jackson  
 -Favorite food (lately): Tortas from Holy Taco in Orem  
 -Favorite artist: Beyoncé  
--Bioinformatics major
+-Bioinformatics major  
+
+I've done some work in R before so I'm hoping this class goes well!
