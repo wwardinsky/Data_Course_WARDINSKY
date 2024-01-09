@@ -4,3 +4,4 @@ Let's add some info about me as well!
 
 I'm Will:
 -Originally from Houston, Texas
+-2nd year Ski instructor
