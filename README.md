@@ -3,3 +3,4 @@ This README file contains information about my uploaded assignments, and no hate
 Let's add some info about me as well!
 
 I'm Will:
+-Originally from Houston, Texas
